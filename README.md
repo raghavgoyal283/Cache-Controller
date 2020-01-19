@@ -1,6 +1,7 @@
 # Cache-Controller
 
 WHAT IS A CACHE CONTROLLER:
+
 Cache Controller is a hardware which acts as an intermediate between the processor and the cache memory. It executes the read and write requests from the processor and copies or replaces data within different levels of cache memory and main memory to reduce the average time taken by the processor to retrieve data from an address
 
 ABOUT THE PROJECT:
